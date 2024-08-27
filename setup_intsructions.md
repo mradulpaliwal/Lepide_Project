@@ -6,7 +6,7 @@
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/mradulpaliwal/Riptide_Project.git
+git clone https://github.com/mradulpaliwal/Lepide_Project.git
 cd document-summarization-app
 ##  Running the Application Locally
 # 1. Using Docker Compose (Recommended)
