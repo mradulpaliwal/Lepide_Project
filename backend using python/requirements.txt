@@ -1,0 +1,11 @@
+fastapi                 # FastAPI framework
+uvicorn[standard]       # ASGI server for running the FastAPI app
+python-multipart        # Required for handling file uploads
+pydantic                # For data validation and settings management
+transformers            # For working with pre-trained models like GPT-2
+torch                   # For running PyTorch-based models (needed for GPT-2)
+PyPDF2                  # For handling PDF files (if you're extracting text from PDFs)
+python-docx             # For handling DOCX files
+python-dotenv           # For loading environment variables from a .env file (optional)
+For installing the requirements you can run
+(pip install -r requirements.txt)
