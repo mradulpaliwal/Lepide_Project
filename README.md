@@ -32,6 +32,6 @@ This web application allows users to upload documents in various formats (PDF, D
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mradulpaliwal/Riptide_Project.git
+   git clone https://github.com/mradulpaliwal/Lepide_Project.git
    cd document-summarization-app
 
