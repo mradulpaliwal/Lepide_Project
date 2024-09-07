@@ -1,6 +1,6 @@
 # Document Summarization Web Application
 
-## Overview
+# Overview
 This web application allows users to upload documents in various formats (PDF, DOCX, TXT) and receive summarized versions of those documents. The backend is powered by Flask/FastAPI, with a pre-trained language model (e.g., GPT-2) deployed locally to handle the summarization. The frontend is built with React, providing an intuitive interface for document uploads and displaying summaries.
 
 ## Features
