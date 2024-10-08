@@ -25,7 +25,7 @@ This web application allows users to upload documents in various formats (PDF, D
 ## Getting Started
 
 ### Prerequisites
-- **Docker** and **Docker Compose** installed on your machine.
+- **Docker** and **Docker Compose** installed on your machine..
 - **Git** installed.
 
 ### Setup Instructions
