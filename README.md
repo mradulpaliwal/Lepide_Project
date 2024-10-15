@@ -11,7 +11,7 @@ This web application allows users to upload documents in various formats (PDF, D
 - **Docker Support:** The application can be deployed locally using Docker and Docker Compose.
 
 ## Tech Stack
-## Backend
+# Backend
 - **Framework:** Flask/FastAPI
 - **Language Model:** GPT-2 or similar (deployed locally)
 - **Deployment:** Docker, Docker Compose
